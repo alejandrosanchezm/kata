@@ -1,8 +1,11 @@
 # Solution
 
-The major change, appart of adding the new funcionality, was to refactor the code.
+This Repo is a solution for the Kata: https://github.com/emilybache/GildedRose-Refactoring-Kata
+
 
 ### Refactor -> From Shop to Item
+
+The major change, appart of adding the new funcionality, was to refactor the code.
 
 I've considered that the logic must be not in the shop on itself. 
 It has to be something controlled by the Item, for some reasons:
